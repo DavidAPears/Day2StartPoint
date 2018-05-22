@@ -64,11 +64,11 @@ end
 def number_to_short_month_name(number)
    case number
     when 1
-      "January"
+      "Jan"
     when 4
-      "April"
+      "Apr"
     when 10
-      "October"
+      "Oct"
     end
       return
 end
